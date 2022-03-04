@@ -12,7 +12,6 @@ import java.util.Random;
  */
 public class Modul6Demo
 {
-    // instance variables - replace the example below with your own
     private HashMap<String, String> carModel;
     private Random randomGenerator;
 
