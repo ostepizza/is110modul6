@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Modul6Demo
+comment0.text=\r\n\ Contains\ methods\ to\ find\ a\ related\ car\ manufacturer\ based\ on\ model\ as\ input,\r\n\ generate\ a\ random\ number\ between\ two\ values\ and\ a\ method\ that\ checks\r\n\ if\ you're\ born\ in\ the\ nineties.\r\n\r\n\ @author\ M.\ Nilsen\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Modul6Demo()
+comment1.text=\r\n\ Constructs\ the\ required\ HashMap\ and\ Random\ objects\ for\ the\ class\r\n
+comment2.params=
+comment2.target=void\ loadCarManufacturerList()
+comment2.text=\r\n\ Loads\ a\ list\ of\ car\ models\r\n
+comment3.params=model
+comment3.target=void\ findCarManufacturer(java.lang.String)
+comment3.text=\r\n\ Finds\ the\ manufacturer\ of\ a\ car\ model\r\n\r\n\ @param\ \ String\ The\ model\ you\ wish\ to\ know\ the\ manufacturer\ of\r\n
+comment4.params=numberMin\ numberMax
+comment4.target=void\ randomNumber(int,\ int)
+comment4.text=\r\n\ Generates\ a\ random\ number\ between\ two\ chosen\ numbers.\r\n\ \r\n\ @param\ int\ numberMin\ -\ The\ lower\ number\ you\ want\ a\ random\ value\ between\r\n\ @param\ int\ numberMax\ -\ The\ higher\ number\ you\ want\ a\ random\ value\ between\r\n
+comment5.params=birthyear
+comment5.target=void\ ninetiesKid(int)
+comment5.text=\r\n\ Tells\ you\ whether\ you\ are\ born\ in\ the\ nineties\ or\ not\r\n\ \r\n\ @param\ int\ birthyear\ Your\ birthyear\ to\ be\ "analyzed"\r\n
+numComments=6
